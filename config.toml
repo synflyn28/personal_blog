@@ -25,7 +25,7 @@ theme = "hugo-goa"
 author = "Justin Lynn Reid"
 intro = "Scientific Programmer, Data Analyst, & Meteorologist"
 description = "Federal Contrator @ NOAA's National Centers for Environmental Information"
-authorimage = "headshot.png"
+authorimage = "headshot.jpeg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
