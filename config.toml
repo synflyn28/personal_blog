@@ -8,6 +8,7 @@ languageCode = "en-US"
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
+staticDir = "static"
 
 author = "Justin Lynn Reid"
 title = "Justin Lynn Reid"
