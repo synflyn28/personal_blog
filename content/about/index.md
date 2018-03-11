@@ -10,9 +10,6 @@ title = "About"
 showpagemeta = false
 +++
 
-Erlich administers the Hacker Hostel, a tech incubator where Richard, Big Head, Dinesh, and Gilfoyle live and work in exchange for 10 percent of their potential businesses. Erlich clings to his glory days, when he sold aviation start-up Aviato, a move that, at least in his mind, qualifies him to be a svengali lording over other tech nerds. He still drives a car emblazoned with multiple Aviato logos and smokes copious amounts of weed.[1]
+Justin Lynn Reid is a lifelong science enthusiast who has turned that passion into a career focused meteorology, climate, software development, and data analytics. Starting at the age of 5, his interest in meteorology began by watching the National Geographic TV special *Cyclone!* and has evolved from there ever since. As someone who is enthusiastic about the interesection of creativity and scientific understanding, he always strives to find new frontiers of understanding that lead to places unknown.
 
-In Fiduciary Duties, a drunk Richard makes Erlich a Pied Piper board member, a decision he later regrets.
-
-In Two Days of the Condor, it is revealed that Erlich no longer codes due to carpal tunnel syndrome.
-
+The next steps in this scientific journey is in to the data science field, which is the future of meteorology and other like-minded sciences. In many ways meteorology is data science already with it's usage of dynamical computer models, data analysis software, and earth observing networks. However the main reason behind Justin's new path into data science is that it provides an authentic way to creatively pratice the science that he has always been passionate about. And that's always been the most important thing in his career.

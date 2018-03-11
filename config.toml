@@ -35,10 +35,10 @@ keywords = "minimalist,blog,goa,hugo,developer"
 
 ## Social Accounts
 [params.social]
-github = "<username>"
-linkedin = "<username>"
-twitter = "<username>"
-email = "you@example.com"
+github = "synflyn28"
+linkedin = "justinreid28"
+twitter = "synflyn28"
+email = "jlreid@alumni.unca.edu"
 
 ## Extras
 [params.extra]
