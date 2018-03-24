@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>Art Science &#43; Community</title>
+      <title>Art, Science, &#43; Community</title>
       <link>/blog/art-science-community/</link>
       <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/blog/art-science-community/</guid>
-      <description> Art Science + Community </description>
+      <description>Hello World! This post is the first for my data science blog, and I thought that I would never be able to create my own self-hosted blog in a relatively simple way. I would like to thank the R community for providing such an opportunity with R Blogdown and it further proves that the R community is one of the most welcoming in data science and shows what true collaboration is supposed to be.</description>
     </item>
     
   </channel>
