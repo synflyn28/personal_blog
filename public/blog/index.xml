@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Justin Lynn Reid</title>
-    <link>/blog/</link>
+    <link>https://sharp-knuth-18a3d0.netlify.com/blog/</link>
     <description>Recent content in Blogs on Justin Lynn Reid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 22 Mar 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sharp-knuth-18a3d0.netlify.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Science, Art &#43; Community</title>
-      <link>/blog/art-science-community/</link>
+      <link>https://sharp-knuth-18a3d0.netlify.com/blog/art-science-community/</link>
       <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/art-science-community/</guid>
+      <guid>https://sharp-knuth-18a3d0.netlify.com/blog/art-science-community/</guid>
       <description>Hello World! This post is the first for my data science blog, and I thought that I would never be able to create my own self-hosted blog in a relatively simple way. I would like to thank the R community for providing such an opportunity with R Blogdown and it further proves that the R community is one of the most welcoming in data science and shows what true collaboration is supposed to be.</description>
     </item>
     

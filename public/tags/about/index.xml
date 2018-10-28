@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Justin Lynn Reid</title>
-    <link>/tags/about/</link>
+    <link>https://sharp-knuth-18a3d0.netlify.com/tags/about/</link>
     <description>Recent content in About on Justin Lynn Reid</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
     
-	<atom:link href="/tags/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sharp-knuth-18a3d0.netlify.com/tags/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://sharp-knuth-18a3d0.netlify.com/about/</link>
       <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://sharp-knuth-18a3d0.netlify.com/about/</guid>
       <description>Justin Lynn Reid is a lifelong science enthusiast who has turned that passion into a career focused meteorology, climate, software development, and data analytics. Starting at the age of 5, his interest in meteorology began by watching the National Geographic TV special Cyclone! and has evolved from there ever since. As someone who is enthusiastic about the interesection of creativity and scientific understanding, he always strives to find new frontiers of understanding that lead to places unknown.</description>
     </item>
     
