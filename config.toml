@@ -57,3 +57,8 @@ highlightjs = true
     identifier = "about"
     weight = 200
     url = "/about/"
+[[menu.main]]
+    name = "projects"
+    identifier = "projects"
+    weight = 200
+    url = "/projects/"
