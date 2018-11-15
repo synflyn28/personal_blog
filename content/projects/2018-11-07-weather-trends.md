@@ -11,3 +11,8 @@ showpagemeta: yes
 ---
 
 # Weather Trends
+
+## Overview
+
+This project looks at trends in weather data and deonstrates how to use running averages to
+seperate trends from noisy time series.x
